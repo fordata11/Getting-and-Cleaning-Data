@@ -7,7 +7,7 @@
 ### Files in the repo
 * ```CodeBook.md``` has description of the variables, the data, and how the set of instructions are performed
 
-* ```run_analysis.R``` contains to r code for the following instructions
+* ```run_analysis.R``` contains the r code for the following instructions
   * Merges the training and the test sets to create one data set.
   * Extracts only the measurements on the mean and standard deviation for each measurement.
   * Uses descriptive activity names to name the activities in the data set
