@@ -4,7 +4,7 @@ The ```run_analysis.R``` file contains the code and all the instruction done whi
 The data given and data collected from the accelerometers are from the Samsung Galaxy S smartphone. To get more info click th link [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 click on download to download the zip file contain the dataset [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-#### the datasets(.txt files) in zip file with their dimensions and the variable given in ```run_analysis.R``` is
+#### the datasets(.txt files) in zip file with their dimensions and the variable given in ```run_analysis.R``` 
 <pre>
 1. features        <- features.txt          : 561 rows, 2 columns
 2. activity_labels <- activity_labels.txt   : 6 rows, 2 columns
