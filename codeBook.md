@@ -1,7 +1,7 @@
 The ```run_analysis.R``` file contains the code and all the instruction done which are given to do in the course.
 
 ## 1. downloading and importing the dataset
-The data given and data collected from the accelerometersare from the Samsung Galaxy S smartphone. To get more ingo click th link [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The data given and data collected from the accelerometers are from the Samsung Galaxy S smartphone. To get more info click th link [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 click on download to download the zip file contain the dataset [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 #### the datasets(.txt files) in zip file with their dimensions and the variable given in ```run_analysis.R``` is
