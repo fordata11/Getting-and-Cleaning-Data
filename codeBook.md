@@ -1,4 +1,4 @@
-The ```run_analysis.R``` script performs the data preparation and all the instruction given to do in the course.
+The ```run_analysis.R``` file contains the code and all the instruction done which are given to do in the course.
 
 ## 1. downloading and importing the dataset
 The data given and data collected from the accelerometersare from the Samsung Galaxy S smartphone. To get more ingo click th link [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
